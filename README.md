@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Java Back-End
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End utilizando Java e Spring Boot.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End utilizando Java e Spring Boot.
 
 Atualmente desenvolvo projetos para aprimorar meus conhecimentos em APIs REST, regras de negócio, persistência de dados, autenticação, segurança e bancos de dados relacionais.
 
